@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" gorn="0" version="1.2"  id="svg2" viewBox="0 0 10.16 25.4" height="1in" width="0.4in" x="0in">
+    <metadata  id="metadata54">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs52"/>
+    <desc  id="desc4">
+        <referenceFile >LiPo-USB-Charger-v21_schematic.svg</referenceFile>
+    </desc>
+    <rect y="5.23875" gorn="0.3" class="interior rect"  id="rect7" style="fill:#ffffff;stroke:#000000;stroke-width:0.3175;stroke-linecap:round" height="14.9225" width="9.8424997" x="0.15875"/>
+    <line gorn="0.4" class="pin"  y1="20.196501" y2="25.276501" style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" x1="5.0799999" x2="5.0799999"/>
+    <rect y="25.276501" gorn="0.5" class="terminal"  style="fill:none;stroke:none;stroke-width:0" height="0.246944" width="0.246944" x="4.9565301"/>
+    <g  transform="translate(4.6425666,0)">
+        <g gorn="0.6.0"  id="g4533">
+            <g gorn="0.6.0.0"  id="g4482">
+                <line gorn="0.6.0.0.0" class="pin"  y1="20.196501" y2="25.276501" style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" x1="2.4225886" x2="2.4225886"/>
+                <g  transform="translate(2.8447424,19.7026)">
+                    <g gorn="0.6.0.0.1.0"  id="g12">
+                        <g gorn="0.6.0.0.1.0.0"  id="g14">
+                            <g gorn="0.6.0.0.1.0.0.0"  id="g16">
+                                <g  transform="matrix(0,-1,1,0,0,0)">
+                                    <g gorn="0.6.0.0.1.0.0.0.0.0"  id="g18">
+                                        <g gorn="0.6.0.0.1.0.0.0.0.0.0"  id="g20">
+                                            <g gorn="0.6.0.0.1.0.0.0.0.0.0.0"  id="g22">
+                                                <text y="0" gorn="0.6.0.0.1.0.0.0.0.0.0.0.0" class="text" font-size="1.23472"  id="text24" style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0" x="0">GND</text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect y="25.276501" gorn="0.7" class="terminal"  style="fill:none;stroke:none;stroke-width:0" height="0.246944" width="0.246944" x="4.9565301"/>
+    <line gorn="0.8" class="pin"  id="connector9pin" y1="0.123472" y2="5.2034702" style="fill:none;stroke:none;stroke-width:0;stroke-linecap:round" x1="5.0799999" x2="5.0799999"/>
+    <rect y="-0.123472" gorn="0.9" class="terminal"  id="connector9terminal" style="fill:none;stroke:none;stroke-width:0" height="0.246944" width="0.246944" x="4.9565301"/>
+    <line gorn="0.10" class="pin"  id="connector10pin" y1="0.123472" y2="5.2034702" style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" x1="2.5984051" x2="2.5984051"/>
+    <g  transform="translate(2.8453453,5.69736)">
+        <g gorn="0.11.0"  id="g30">
+            <g gorn="0.11.0.0"  id="g32">
+                <g gorn="0.11.0.0.0"  id="g34">
+                    <g  transform="matrix(0,-1,1,0,0,0)">
+                        <g gorn="0.11.0.0.0.0.0"  id="g36">
+                            <g gorn="0.11.0.0.0.0.0.0"  id="g38">
+                                <g gorn="0.11.0.0.0.0.0.0.0"  id="g40">
+                                    <text y="0" gorn="0.11.0.0.0.0.0.0.0.0" class="text" font-size="1.23472"  id="text42" style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0" x="0">BAT+</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect y="-0.123472" gorn="0.12" class="terminal"  style="fill:none;stroke:none;stroke-width:0" height="0.246944" width="0.246944" x="4.9565301"/>
+    <text y="12.4119" gorn="0.13" class="text" font-size="1.49931"  id="label" style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0" x="5.23875">USB</text>
+    <text y="14.0112" gorn="0.14" class="text" font-size="1.49931"  id="text46" style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0" x="5.23875">LiPoly</text>
+    <text y="15.6106" gorn="0.15" class="text" font-size="1.49931"  id="text48" style="font-size:1.49931002px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0" x="5.23875">Charger</text>
+    <g  transform="translate(-4.6425666,0)">
+        <g gorn="0.16.0"  id="g4492">
+            <line gorn="0.16.0.0" class="pin"  id="connector8pin" y1="20.196501" y2="25.276501" style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" x1="7.0657578" x2="7.0657578"/>
+            <g  transform="matrix(0,-1,1,0,7.4879119,19.7026)">
+                <g gorn="0.16.0.1.0"  id="g4216">
+                    <g gorn="0.16.0.1.0.0"  id="g4218">
+                        <g gorn="0.16.0.1.0.0.0"  id="g4220">
+                            <text y="0" gorn="0.16.0.1.0.0.0.0" class="text" font-size="1.23472"  id="text4222" style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0" x="0">VIN</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <line gorn="0.17" class="pin"  id="connector11pin" y1="0.123472" style="fill:none;stroke:#787878;stroke-width:0.246944;stroke-linecap:round" y2="5.2034702" x1="7.240972" x2="7.240972"/>
+    <g  transform="translate(7.4879119,5.69736)">
+        <g gorn="0.18.0"  id="g4503">
+            <g gorn="0.18.0.0"  id="g4505">
+                <g gorn="0.18.0.0.0"  id="g4507">
+                    <g  transform="matrix(0,-1,1,0,0,0)">
+                        <g gorn="0.18.0.0.0.0.0"  id="g4509">
+                            <g gorn="0.18.0.0.0.0.0.0"  id="g4511">
+                                <g gorn="0.18.0.0.0.0.0.0.0"  id="g4513">
+                                    <text y="0" gorn="0.18.0.0.0.0.0.0.0.0" font-size="1.23472" class="text"  id="text4515" style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0" x="0">BAT-</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
