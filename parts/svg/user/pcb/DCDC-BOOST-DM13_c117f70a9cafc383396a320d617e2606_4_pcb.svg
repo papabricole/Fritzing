@@ -1,0 +1,3841 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  gorn="0" height="17.500031mm" id="svg2" version="1.1" width="13.499884mm" viewBox="0 0 47.834233 62.007982">
+    <desc  id="desc3">
+        <referenceFile >Boost-DM13-pcb.svg</referenceFile>
+    </desc>
+    <defs  id="defs4"/>
+    <metadata  id="metadata7">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  gorn="0.3" id="silkscreen">
+        <path  gorn="0.3.0" d="m 0.88583,0.88583 0,60.23633 7.22461,0 c -0.003,-0.0414 -0.0117,-0.0808 -0.0117,-0.12305 0,-0.89573 0.72732,-1.625 1.62305,-1.625 0.89573,0 1.625,0.72927 1.625,1.625 0,0.0422 -0.009,0.0816 -0.0117,0.12305 l 25.27539,0 c -0.003,-0.0414 -0.0117,-0.0808 -0.0117,-0.12305 0,-0.89573 0.72732,-1.625 1.62305,-1.625 0.89573,0 1.625,0.72927 1.625,1.625 0,0.0422 -0.009,0.0816 -0.0117,0.12305 l 7.11328,0 0,-60.23633 -7.11719,0 c 0.005,0.0529 0.0156,0.10391 0.0156,0.1582 0,0.89573 -0.72802,1.625 -1.625,1.625 -0.89573,0 -1.62305,-0.72927 -1.62305,-1.625 0,-0.0543 0.0104,-0.10527 0.0156,-0.1582 l -25.38281,0 c 0.007,0.0605 0.0176,0.11932 0.0176,0.18164 0,0.89573 -0.72802,1.625 -1.625,1.625 -0.89573,0 -1.62305,-0.72927 -1.62305,-1.625 0,-0.0623 0.0107,-0.12113 0.0176,-0.18164 l -7.13281,0 z" id="path6368" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.70866144;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+        <g  gorn="0.3.1" id="g10116">
+            <path  gorn="0.3.1.0" d="m 24.285965,13.875752 -2.954211,0 0,0.44677 -13.7113045,0 0,-0.44677 -2.9524725,0 -2.9524841,2.950745 0,19.798102 2.9507451,2.950756 2.9542115,-5.8e-5 0,-0.44677 13.7112455,0 0,0.44677 2.9542,0 2.950757,-2.950745 -2.4e-5,-19.798055 -2.950663,-2.950745 z" id="path452397" style="fill:none;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+            <circle r="10.705113"  gorn="0.3.1.1" id="circle452419" style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" cx="14.477805" cy="26.722988"/>
+        </g>
+        <g  transform="matrix(0,-0.52415877,0.52415877,0,128.72402,-275.78622)">
+            <g >
+                <g >
+                    <g  gorn="0.3.2.0.0.0" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text6341" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86871004px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="7.86871" xml:space="preserve">
+                        <text  gorn="0.3.2.0.0.0.0" id="tspan6343" x="-545.75409" y="-235.30905">Vin+</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.52783532,0.52783532,0,129.69573,-241.04252)">
+            <g >
+                <g >
+                    <g  gorn="0.3.3.0.0.0" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text6345" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86871004px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="7.86871" xml:space="preserve">
+                        <text  gorn="0.3.3.0.0.0.0" id="tspan6347" x="-568.89191" y="-235.30905">Vout+</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.52415877,0.52415877,0,153.53844,-276.28089)">
+            <g >
+                <g >
+                    <g  gorn="0.3.4.0.0.0" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text6349" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86871004px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="7.86871" xml:space="preserve">
+                        <text  gorn="0.3.4.0.0.0.0" id="tspan6351" x="-545.75409" y="-206.62779">Vin-</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,252.6487,-510.9669)">
+            <g >
+                <g >
+                    <g  gorn="0.3.5.0.0.0" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="text6353" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.86871004px;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" font-size="7.86871" xml:space="preserve">
+                        <text  gorn="0.3.5.0.0.0.0" id="tspan6355" x="-570.07428" y="-207.51372" style="font-size:4.4193306px">Vout-</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  gorn="0.3.6" id="g28765">
+            <rect  gorn="0.3.6.0" height="7.1528864" id="rect28761" x="7.849596" y="42.871689" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="12.773011"/>
+            <rect  gorn="0.3.6.1" height="7.1993337" id="rect28763" x="19.182741" y="42.825241" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.3934194"/>
+        </g>
+        <rect  gorn="0.3.7" height="7.0612903" x="41.251072" id="rect28773" y="19.771612" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="3.57991"/>
+        <rect  gorn="0.3.8" height="3.4813805" x="37.704006" id="rect28775" y="30.708403" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="6.9627609"/>
+        <rect  gorn="0.3.9" height="3.4485371" x="37.638321" id="rect28777" y="36.127533" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="7.0612903"/>
+        <rect  gorn="0.3.10" height="6.8642311" x="30.872618" id="rect28779" y="32.350563" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="3.5470667"/>
+        <rect  gorn="0.3.11" height="4.9921679" x="20.888283" id="rect28781" y="54.848164" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="8.3421755"/>
+        <rect  gorn="0.3.12" height="5.0906978" x="20.297104" id="rect28783" y="4.0397148" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="8.3421755"/>
+        <g  gorn="0.3.13" id="g28797">
+            <rect  gorn="0.3.13.0" height="5.0578547" id="rect28769" x="30.248598" y="16.914253" style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="7.9809003"/>
+            <rect  gorn="0.3.13.1" height="1.4779445" id="rect28771" x="31.398109" y="15.403466" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.1495124"/>
+            <rect  gorn="0.3.13.2" height="1.4779445" x="33.598602" id="rect28787" y="15.403466" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.1495124"/>
+            <rect  gorn="0.3.13.3" height="1.4779445" id="rect28789" x="35.996159" y="15.403466" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.1495124"/>
+            <rect  gorn="0.3.13.4" height="1.4779445" x="35.996159" id="rect28791" y="21.972109" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.1495124"/>
+            <rect  gorn="0.3.13.5" height="1.4779445" id="rect28793" x="33.598602" y="21.972109" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.1495124"/>
+            <rect  gorn="0.3.13.6" height="1.4779445" x="31.398109" id="rect28795" y="21.972109" style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="1.1495124"/>
+        </g>
+    </g>
+    <g  transform="translate(-153.59889,39.39874)">
+        <g >
+            <g >
+                <g  gorn="0.4.0.0.0" id="_374606976"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-153.59889,39.39874)">
+        <g >
+            <g >
+                <g  gorn="0.5.0.0.0" id="_374609208"/>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.6.0.0.0" id="_x30_.1.0.1.20.1">
+                    <title  id="0.1.0.1.20.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.7.0.0.0" id="_x30_.1.0.1.21.1">
+                    <title  id="0.1.0.1.21.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.8.0.0.0" id="_x30_.1.0.1.22.1">
+                    <title  id="0.1.0.1.22.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.9.0.0.0" id="_x30_.1.0.1.23.1">
+                    <title  id="0.1.0.1.23.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.10.0.0.0" id="_x30_.1.0.1.24.1">
+                    <title  id="0.1.0.1.24.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.11.0.0.0" id="_x30_.1.0.1.25.1">
+                    <title  id="0.1.0.1.25.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.12.0.0.0" id="_x30_.1.0.1.26.1">
+                    <title  id="0.1.0.1.26.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.13.0.0.0" id="_x30_.1.0.1.27.1">
+                    <title  id="0.1.0.1.27.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.14.0.0.0" id="_x30_.1.0.1.28.1">
+                    <title  id="0.1.0.1.28.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.15.0.0.0" id="_x30_.1.0.1.29.1">
+                    <title  id="0.1.0.1.29.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.16.0.0.0" id="_x30_.1.0.1.31.1">
+                    <title  id="0.1.0.1.31.1.0">package:L1812</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.17.0.0.0" id="_x30_.1.0.1.32.1">
+                    <title  id="0.1.0.1.32.1.0">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.18.0.0.0" id="_x30_.1.0.1.33.1">
+                    <title  id="0.1.0.1.33.1.0">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.19.0.0.0" id="_x30_.1.0.1.34.1">
+                    <title  id="0.1.0.1.34.1.0">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.20.0.0.0" id="_x30_.1.0.1.35.1">
+                    <title  id="0.1.0.1.35.1.0">package:SJ</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.21.0.0.0" id="_x30_.1.0.1.44.1">
+                    <title  id="0.1.0.1.44.1.0">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.22.0.0.0" id="_x30_.1.0.1.45.1">
+                    <title  id="0.1.0.1.45.1.0">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.23.0.0.0" id="_x30_.1.0.1.46.1">
+                    <title  id="0.1.0.1.46.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.24.0.0.0" id="_x30_.1.0.1.47.1">
+                    <title  id="0.1.0.1.47.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.25.0.0.0" id="_x30_.1.0.1.48.1">
+                    <title  id="0.1.0.1.48.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.26.0.0.0" id="_x30_.1.0.1.49.1">
+                    <title  id="0.1.0.1.49.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.27.0.0.0" id="_x30_.1.0.1.52.1">
+                    <title  id="0.1.0.1.52.1.0">package:CT/CN0603</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.28.0.0.0" id="_x30_.1.0.1.53.1">
+                    <title  id="0.1.0.1.53.1.0">package:CT/CN0603</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.29.0.0.0" id="_x30_.1.0.2.35.1">
+                    <title  id="0.1.0.2.35.1.0">package:1X06</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.30.0.0.0" id="_x30_.1.0.2.36.1">
+                    <title  id="0.1.0.2.36.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.31.0.0.0" id="_x30_.1.0.2.37.1">
+                    <title  id="0.1.0.2.37.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.32.0.0.0" id="_x30_.1.0.2.38.1">
+                    <title  id="0.1.0.2.38.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.33.0.0.0" id="_x30_.1.0.2.39.1">
+                    <title  id="0.1.0.2.39.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.34.0.0.0" id="_x30_.1.0.2.40.1">
+                    <title  id="0.1.0.2.40.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.35.0.0.0" id="_x30_.1.0.2.41.1">
+                    <title  id="0.1.0.2.41.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.36.0.0.0" id="_x30_.1.0.2.42.1">
+                    <title  id="0.1.0.2.42.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.37.0.0.0" id="_x30_.1.0.2.43.1">
+                    <title  id="0.1.0.2.43.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.38.0.0.0" id="_x30_.1.0.2.44.1">
+                    <title  id="0.1.0.2.44.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.39.0.0.0" id="_x30_.1.0.2.45.1">
+                    <title  id="0.1.0.2.45.1.0">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.40.0.0.0" id="_x30_.1.0.2.46.1">
+                    <title  id="0.1.0.2.46.1.0">package:SMB</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.41.0.0.0" id="_x30_.1.0.2.47.1">
+                    <title  id="0.1.0.2.47.1.0">package:MINIMELF</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.42.0.0.0" id="_x30_.1.0.2.48.1">
+                    <title  id="0.1.0.2.48.1.0">package:MINIMELF</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.43.0.0.0" id="_x30_.1.0.2.49.1">
+                    <title  id="0.1.0.2.49.1.0">package:L1812</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.44.0.0.0" id="_x30_.1.0.2.50.1">
+                    <title  id="0.1.0.2.50.1.0">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.45.0.0.0" id="_x30_.1.0.2.51.1">
+                    <title  id="0.1.0.2.51.1.0">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.46.0.0.0" id="_x30_.1.0.2.52.1">
+                    <title  id="0.1.0.2.52.1.0">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.47.0.0.0" id="_x30_.1.0.2.53.1">
+                    <title  id="0.1.0.2.53.1.0">package:SJ</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.48.0.0.0" id="_x30_.1.0.2.56.1">
+                    <title  id="0.1.0.2.56.1.0">package:2X03</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.49.0.0.0" id="_x30_.1.0.2.57.1">
+                    <title  id="0.1.0.2.57.1.0">package:1X10@1</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.50.0.0.0" id="_x30_.1.0.2.58.1">
+                    <title  id="0.1.0.2.58.1.0">package:1X08</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.51.0.0.0" id="_x30_.1.0.2.59.1">
+                    <title  id="0.1.0.2.59.1.0">package:2X02</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.52.0.0.0" id="_x30_.1.0.2.60.1">
+                    <title  id="0.1.0.2.60.1.0">package:CHIP-LED0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.53.0.0.0" id="_x30_.1.0.2.61.1">
+                    <title  id="0.1.0.2.61.1.0">package:0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.54.0.0.0" id="_x30_.1.0.2.63.1">
+                    <title  id="0.1.0.2.63.1.0">package:PANASONIC_D</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.55.0.0.0" id="_x30_.1.0.2.64.1">
+                    <title  id="0.1.0.2.64.1.0">package:PANASONIC_D</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.56.0.0.0" id="_x30_.1.0.2.65.1">
+                    <title  id="0.1.0.2.65.1.0">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.57.0.0.0" id="_x30_.1.0.2.66.1">
+                    <title  id="0.1.0.2.66.1.0">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.58.0.0.0" id="_x30_.1.0.2.67.1">
+                    <title  id="0.1.0.2.67.1.0">package:TS42</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.59.0.0.0" id="_x30_.1.0.2.68.1">
+                    <title  id="0.1.0.2.68.1.0">package:SJ</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.60.0.0.0" id="_x30_.1.0.2.69.1">
+                    <title  id="0.1.0.2.69.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.61.0.0.0" id="_x30_.1.0.2.70.1">
+                    <title  id="0.1.0.2.70.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.62.0.0.0" id="_x30_.1.0.2.71.1">
+                    <title  id="0.1.0.2.71.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.63.0.0.0" id="_x30_.1.0.2.72.1">
+                    <title  id="0.1.0.2.72.1.0">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.64.0.0.0" id="_x30_.1.0.2.73.1">
+                    <title  id="0.1.0.2.73.1.0">package:CHIP-LED0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.65.0.0.0" id="_x30_.1.0.2.74.1">
+                    <title  id="0.1.0.2.74.1.0">package:SOT-23</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.66.0.0.0" id="_x30_.1.0.2.75.1">
+                    <title  id="0.1.0.2.75.1.0">package:CHIP-LED0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.67.0.0.0" id="_x30_.1.0.2.76.1">
+                    <title  id="0.1.0.2.76.1.0">package:SOT223</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.68.0.0.0" id="_x30_.1.0.2.77.1">
+                    <title  id="0.1.0.2.77.1.0">package:SOT23-DBV</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.69.0.0.0" id="_x30_.1.0.2.78.1">
+                    <title  id="0.1.0.2.78.1.0">package:MLF32</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.70.0.0.0" id="_x30_.1.0.2.79.1">
+                    <title  id="0.1.0.2.79.1.0">package:MSOP08</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.71.0.0.0" id="_x30_.1.0.2.80.1">
+                    <title  id="0.1.0.2.80.1.0">package:POWERSUPPLY_DC-21MM</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.72.0.0.0" id="_x30_.1.0.2.81.1">
+                    <title  id="0.1.0.2.81.1.0">package:PN61729</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.73.0.0.0" id="_x30_.1.0.2.82.1">
+                    <title  id="0.1.0.2.82.1.0">package:QS</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.74.0.0.0" id="_x30_.1.0.2.83.1">
+                    <title  id="0.1.0.2.83.1.0">package:RESONATOR</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.75.0.0.0" id="_x30_.1.0.2.84.1">
+                    <title  id="0.1.0.2.84.1.0">package:CT/CN0603</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.76.0.0.0" id="_x30_.1.0.2.85.1">
+                    <title  id="0.1.0.2.85.1.0">package:CT/CN0603</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.77.0.0.0" id="_x30_.1.0.2.86.1">
+                    <title  id="0.1.0.2.86.1.0">package:DIL28-3</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.78.0.0.0" id="g165707">
+                    <title  id="title165709">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.79.0.0.0" id="g165715">
+                    <title  id="title165717">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.80.0.0.0" id="g165723">
+                    <title  id="title165725">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.81.0.0.0" id="g165731">
+                    <title  id="title165733">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.82.0.0.0" id="g165739">
+                    <title  id="title165741">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.83.0.0.0" id="g165747">
+                    <title  id="title165749">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.84.0.0.0" id="g165755">
+                    <title  id="title165757">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.85.0.0.0" id="g165763">
+                    <title  id="title165765">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.86.0.0.0" id="g165771">
+                    <title  id="title165773">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.87.0.0.0" id="g165779">
+                    <title  id="title165781">package:SMC_B</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.88.0.0.0" id="g165787">
+                    <title  id="title165789">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.89.0.0.0" id="g165795">
+                    <title  id="title165797">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.90.0.0.0" id="g165803">
+                    <title  id="title165805">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.91.0.0.0" id="g165821">
+                    <title  id="title165823">package:SOT143</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.92.0.0.0" id="g165887">
+                    <title  id="title165889">package:SJ</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.93.0.0.0" id="g165955">
+                    <title  id="title165957">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.94.0.0.0" id="g165963">
+                    <title  id="title165965">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.95.0.0.0" id="g165971">
+                    <title  id="title165973">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.96.0.0.0" id="g165979">
+                    <title  id="title165981">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.97.0.0.0" id="g165987">
+                    <title  id="title165989">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.98.0.0.0" id="g165995">
+                    <title  id="title165997">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.99.0.0.0" id="g166003">
+                    <title  id="title166005">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.100.0.0.0" id="g166011">
+                    <title  id="title166013">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.101.0.0.0" id="g166019">
+                    <title  id="title166021">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.102.0.0.0" id="g166041">
+                    <title  id="title166043">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.103.0.0.0" id="g166049">
+                    <title  id="title166051">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.104.0.0.0" id="g166057">
+                    <title  id="title166059">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.105.0.0.0" id="g166085">
+                    <title  id="title166087">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.106.0.0.0" id="g166093">
+                    <title  id="title166095">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.107.0.0.0" id="g166101">
+                    <title  id="title166103">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.108.0.0.0" id="g166109">
+                    <title  id="title166111">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.109.0.0.0" id="g166333">
+                    <title  id="title166335">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.110.0.0.0" id="g166341">
+                    <title  id="title166343">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.111.0.0.0" id="g166349">
+                    <title  id="title166351">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.112.0.0.0" id="g166357">
+                    <title  id="title166359">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.113.0.0.0" id="g166365">
+                    <title  id="title166367">package:PANASONIC_D</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.114.0.0.0" id="g166373">
+                    <title  id="title166375">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.115.0.0.0" id="g166381">
+                    <title  id="title166383">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.116.0.0.0" id="g166389">
+                    <title  id="title166391">package:PANASONIC_D</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.117.0.0.0" id="g166397">
+                    <title  id="title166399">package:PANASONIC_D</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.118.0.0.0" id="g166405">
+                    <title  id="title166407">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.119.0.0.0" id="g166413">
+                    <title  id="title166415">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.120.0.0.0" id="g166421">
+                    <title  id="title166423">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.121.0.0.0" id="g166429">
+                    <title  id="title166431">package:SMC_B</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.122.0.0.0" id="g166437">
+                    <title  id="title166439">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.123.0.0.0" id="g166445">
+                    <title  id="title166447">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.124.0.0.0" id="g166453">
+                    <title  id="title166455">package:C0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.125.0.0.0" id="g166461">
+                    <title  id="title166463">text:FULLD</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.126.0.0.0" id="g166465">
+                    <title  id="title166467">package:CHIPLED_0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.127.0.0.0" id="g166473">
+                    <title  id="title166475">package:SOT143</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.128.0.0.0" id="g166481">
+                    <title  id="title166483">package:SOT223</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.129.0.0.0" id="g166489">
+                    <title  id="title166491">package:DPACK</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.130.0.0.0" id="g166497">
+                    <title  id="title166499">package:SQFP-S-10X10-80</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.131.0.0.0" id="g166505">
+                    <title  id="title166507">package:SOT23-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.132.0.0.0" id="g166513">
+                    <title  id="title166515">package:SOT23-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.133.0.0.0" id="g166521">
+                    <title  id="title166523">package:SOT23-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.134.0.0.0" id="g166529">
+                    <title  id="title166531">package:SC70-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.135.0.0.0" id="g166537">
+                    <title  id="title166539">package:SC70-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.136.0.0.0" id="g166545">
+                    <title  id="title166547">package:SC70-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.137.0.0.0" id="g166553">
+                    <title  id="title166555">package:SOT23-5</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.138.0.0.0" id="g166575">
+                    <title  id="title166577">package:SJ</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.139.0.0.0" id="g166583">
+                    <title  id="title166585">package:1X08</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.140.0.0.0" id="g166591">
+                    <title  id="title166593">package:1X06</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.141.0.0.0" id="g166599">
+                    <title  id="title166601">package:1X08</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.142.0.0.0" id="g166625">
+                    <title  id="title166627">package:0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.143.0.0.0" id="g166633">
+                    <title  id="title166635">package:0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.144.0.0.0" id="g166641">
+                    <title  id="title166643">package:0805</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.145.0.0.0" id="g166695">
+                    <title  id="title166697">package:QS</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.146.0.0.0" id="g166703">
+                    <title  id="title166705">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.147.0.0.0" id="g166711">
+                    <title  id="title166713">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.148.0.0.0" id="g166719">
+                    <title  id="title166721">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.149.0.0.0" id="g166727">
+                    <title  id="title166729">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.150.0.0.0" id="g166735">
+                    <title  id="title166737">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.151.0.0.0" id="g166743">
+                    <title  id="title166745">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.152.0.0.0" id="g166751">
+                    <title  id="title166753">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.153.0.0.0" id="g166759">
+                    <title  id="title166761">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.154.0.0.0" id="g166767">
+                    <title  id="title166769">package:R0603-ROUND</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.155.0.0.0" id="g166775">
+                    <title  id="title166777">package:TS42</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.156.0.0.0" id="g166783">
+                    <title  id="title166785">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.157.0.0.0" id="g166791">
+                    <title  id="title166793">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.158.0.0.0" id="g166799">
+                    <title  id="title166801">package:CAY16</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.159.0.0.0" id="g166843">
+                    <title  id="title166845">package:POE-RJ45</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.160.0.0.0" id="g166851">
+                    <title  id="title166853">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.161.0.0.0" id="g166859">
+                    <title  id="title166861">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.162.0.0.0" id="g166867">
+                    <title  id="title166869">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.163.0.0.0" id="g166875">
+                    <title  id="title166877">package:FIDUCIA-MOUNT</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.164.0.0.0" id="g166883">
+                    <title  id="title166885">package:SDCARD-15TW-8821</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.165.0.0.0" id="g204954">
+                    <title  id="title204956">package:MICRO-FIDUCIAL</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.166.0.0.0" id="g204962">
+                    <title  id="title204964">package:MICRO-FIDUCIAL</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.167.0.0.0" id="g205326">
+                    <title  id="title205328">package:SFE_LOGO_NAME_FLAME_.2</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.168.0.0.0" id="g205348">
+                    <title  id="title205350">package:OSHW-LOGO-M</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.169.0.0.0" id="g205438">
+                    <title  id="title205440">package:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.170.0.0.0" id="g205446">
+                    <title  id="title205448">package:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.171.0.0.0" id="g205454">
+                    <title  id="title205456">package:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.172.0.0.0" id="g205462">
+                    <title  id="title205464">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.173.0.0.0" id="g205470">
+                    <title  id="title205472">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.174.0.0.0" id="g205478">
+                    <title  id="title205480">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.175.0.0.0" id="g205486">
+                    <title  id="title205488">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  gorn="0.176" id="copper1">
+        <path  gorn="0.176.0" d="m 9.71204,50.77059 c -1.55285,0 -2.81055,1.25965 -2.81055,2.8125 l 0,5.99024 c -3.7e-4,0.57609 0.17558,1.11094 0.47266,1.55664 l 0.73047,0 c -0.006,-0.0555 -0.0176,-0.109 -0.0176,-0.16602 0,-0.89573 0.72802,-1.62304 1.625,-1.62304 0.89573,0 1.62305,0.72731 1.62305,1.62304 0,0.057 -0.0118,0.1105 -0.0176,0.16602 l 0.73437,0 c 0.29705,-0.44569 0.47071,-0.98056 0.47071,-1.55664 l 0,-5.99024 c 0,-1.55285 -1.25771,-2.8125 -2.81055,-2.8125 z m 0,1.6836 c 0.89573,0 1.62305,0.72731 1.62305,1.62304 0,0.89573 -0.72732,1.625 -1.62305,1.625 -0.89573,0 -1.625,-0.72927 -1.625,-1.625 0,-0.89573 0.72802,-1.62304 1.625,-1.62304 z" id="connector10pad" style="fill:#9a916c;stroke:none"/>
+        <path  gorn="0.176.1" d="m 38.21006,50.77059 c -1.55285,0 -2.81055,1.25965 -2.81055,2.8125 l 0,5.99024 c -3.7e-4,0.57609 0.17558,1.11094 0.47266,1.55664 l 0.73047,0 c -0.006,-0.0555 -0.0176,-0.109 -0.0176,-0.16602 0,-0.89573 0.72802,-1.62304 1.625,-1.62304 0.89573,0 1.62305,0.72731 1.62305,1.62304 0,0.057 -0.0118,0.1105 -0.0176,0.16602 l 0.73437,0 c 0.29705,-0.44569 0.47071,-0.98056 0.47071,-1.55664 l 0,-5.99024 c 0,-1.55285 -1.25771,-2.8125 -2.81055,-2.8125 z m 0,1.6836 c 0.89573,0 1.62305,0.72731 1.62305,1.62304 0,0.89573 -0.72732,1.625 -1.62305,1.625 -0.89573,0 -1.625,-0.72927 -1.625,-1.625 0,-0.89573 0.72802,-1.62304 1.625,-1.62304 z" id="connector12pin" style="fill:#9a916c;stroke:none"/>
+        <path  gorn="0.176.2" d="m 38.21002,11.23887 c 1.55285,0 2.81055,-1.25965 2.81055,-2.8125 l 0,-5.99024 C 41.02094,1.86004 40.84499,1.32519 40.54791,0.87949 l -0.73047,0 c 0.006,0.0555 0.0176,0.109 0.0176,0.16602 0,0.89573 -0.72802,1.62304 -1.625,1.62304 -0.89573,0 -1.62305,-0.72731 -1.62305,-1.62304 0,-0.057 0.0118,-0.1105 0.0176,-0.16602 l -0.73437,0 c -0.29705,0.44569 -0.47071,0.98056 -0.47071,1.55664 l 0,5.99024 c 0,1.55285 1.25771,2.8125 2.81055,2.8125 z m 0,-1.6836 c -0.89573,0 -1.62305,-0.72731 -1.62305,-1.62304 0,-0.89573 0.72732,-1.625 1.62305,-1.625 0.89573,0 1.625,0.72927 1.625,1.625 0,0.89573 -0.72802,1.62304 -1.625,1.62304 z" id="connector9pad" style="fill:#9a916c;stroke:none"/>
+        <path  gorn="0.176.3" d="m 9.62496,11.23887 c 1.55285,0 2.81055,-1.25965 2.81055,-2.8125 l 0,-5.99024 C 12.43588,1.86004 12.25993,1.32519 11.96285,0.87949 l -0.73047,0 c 0.006,0.0555 0.0176,0.109 0.0176,0.16602 0,0.89573 -0.72802,1.62304 -1.625,1.62304 -0.89573,0 -1.62305,-0.72731 -1.62305,-1.62304 0,-0.057 0.0118,-0.1105 0.0176,-0.16602 l -0.73437,0 C 6.98811,1.32518 6.81445,1.86005 6.81445,2.43613 l 0,5.99024 c 0,1.55285 1.25771,2.8125 2.81055,2.8125 z m 0,-1.6836 c -0.89573,0 -1.62305,-0.72731 -1.62305,-1.62304 0,-0.89573 0.72732,-1.625 1.62305,-1.625 0.89573,0 1.625,0.72927 1.625,1.625 0,0.89573 -0.72802,1.62304 -1.625,1.62304 z" id="connector8pad" style="fill:#9a916c;stroke:none"/>
+    </g>
+    <g  transform="translate(-95.27774,82.55895)">
+        <g >
+            <g >
+                <g  gorn="0.177.0.0.0" id="g123534-2">
+                    <title  id="title123536-4">package:FIDUCIAL-1X2</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-95.27774,82.55895)">
+        <g >
+            <g >
+                <g  gorn="0.178.0.0.0" id="g123542-1">
+                    <title  id="title123544-3">package:FIDUCIAL-1X2</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-153.59889,39.39874)">
+        <g >
+            <g >
+                <g  gorn="0.179.0.0.0" id="_374095080-8">
+                    <g  gorn="0.179.0.0.0.0" id="_374606976-4"/>
+                    <g  gorn="0.179.0.0.0.1" id="_374609208-8"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.180.0.0.0" id="_x30_.1.0.1.2-3">
+                    <title  id="0.1.0.1.2.0-6">text:MADE IN</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.181.0.0.0" id="_x30_.1.0.1.3-6">
+                    <title  id="0.1.0.1.3.0-5">text:ITALY</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.182.0.0.0" id="_x30_.1.0.1.4-5">
+                    <title  id="0.1.0.1.4.0-0">text:Prototype</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.183.0.0.0" id="_x30_.1.0.1.5-7">
+                    <title  id="0.1.0.1.5.0-3">text:Limited</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.184.0.0.0" id="_x30_.1.0.1.6-0">
+                    <title  id="0.1.0.1.6.0-4">text:Edition</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.185.0.0.0" id="_x30_.1.0.1.20-9">
+                    <title  id="0.1.0.1.20.0-2">element:C1</title>
+                    <g  gorn="0.185.0.0.0.1" id="_x30_.1.0.1.20.1-8">
+                        <title  id="0.1.0.1.20.1.0-7">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.186.0.0.0" id="_x30_.1.0.1.21-3">
+                    <title  id="0.1.0.1.21.0-7">element:C2</title>
+                    <g  gorn="0.186.0.0.0.1" id="_x30_.1.0.1.21.1-4">
+                        <title  id="0.1.0.1.21.1.0-8">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.187.0.0.0" id="_x30_.1.0.1.22-7">
+                    <title  id="0.1.0.1.22.0-2">element:C3</title>
+                    <g  gorn="0.187.0.0.0.1" id="_x30_.1.0.1.22.1-8">
+                        <title  id="0.1.0.1.22.1.0-8">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.188.0.0.0" id="_x30_.1.0.1.23-2">
+                    <title  id="0.1.0.1.23.0-0">element:C4</title>
+                    <g  gorn="0.188.0.0.0.1" id="_x30_.1.0.1.23.1-1">
+                        <title  id="0.1.0.1.23.1.0-0">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.189.0.0.0" id="_x30_.1.0.1.24-0">
+                    <title  id="0.1.0.1.24.0-4">element:C5</title>
+                    <g  gorn="0.189.0.0.0.1" id="_x30_.1.0.1.24.1-4">
+                        <title  id="0.1.0.1.24.1.0-8">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.190.0.0.0" id="_x30_.1.0.1.25-6">
+                    <title  id="0.1.0.1.25.0-1">element:C6</title>
+                    <g  gorn="0.190.0.0.0.1" id="_x30_.1.0.1.25.1-8">
+                        <title  id="0.1.0.1.25.1.0-8">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.191.0.0.0" id="_x30_.1.0.1.26-3">
+                    <title  id="0.1.0.1.26.0-7">element:C7</title>
+                    <g  gorn="0.191.0.0.0.1" id="_x30_.1.0.1.26.1-7">
+                        <title  id="0.1.0.1.26.1.0-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.192.0.0.0" id="_x30_.1.0.1.27-9">
+                    <title  id="0.1.0.1.27.0-5">element:C8</title>
+                    <g  gorn="0.192.0.0.0.1" id="_x30_.1.0.1.27.1-9">
+                        <title  id="0.1.0.1.27.1.0-7">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.193.0.0.0" id="_x30_.1.0.1.28-1">
+                    <title  id="0.1.0.1.28.0-9">element:C9</title>
+                    <g  gorn="0.193.0.0.0.1" id="_x30_.1.0.1.28.1-4">
+                        <title  id="0.1.0.1.28.1.0-2">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.194.0.0.0" id="_x30_.1.0.1.29-0">
+                    <title  id="0.1.0.1.29.0-0">element:C11</title>
+                    <g  gorn="0.194.0.0.0.1" id="_x30_.1.0.1.29.1-4">
+                        <title  id="0.1.0.1.29.1.0-8">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.195.0.0.0" id="_x30_.1.0.1.31-7">
+                    <title  id="0.1.0.1.31.0-8">element:F1</title>
+                    <g  gorn="0.195.0.0.0.1" id="_x30_.1.0.1.31.1-6">
+                        <title  id="0.1.0.1.31.1.0-4">package:L1812</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.196.0.0.0" id="_x30_.1.0.1.32-5">
+                    <title  id="0.1.0.1.32.0-5">element:FD1</title>
+                    <g  gorn="0.196.0.0.0.1" id="_x30_.1.0.1.32.1-1">
+                        <title  id="0.1.0.1.32.1.0-7">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.197.0.0.0" id="_x30_.1.0.1.33-1">
+                    <title  id="0.1.0.1.33.0-0">element:FD2</title>
+                    <g  gorn="0.197.0.0.0.1" id="_x30_.1.0.1.33.1-4">
+                        <title  id="0.1.0.1.33.1.0-4">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.198.0.0.0" id="_x30_.1.0.1.34-1">
+                    <title  id="0.1.0.1.34.0-7">element:FD3</title>
+                    <g  gorn="0.198.0.0.0.1" id="_x30_.1.0.1.34.1-3">
+                        <title  id="0.1.0.1.34.1.0-0">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.199.0.0.0" id="_x30_.1.0.1.35-5">
+                    <title  id="0.1.0.1.35.0-2">element:GROUND</title>
+                    <g  gorn="0.199.0.0.0.1" id="_x30_.1.0.1.35.1-1">
+                        <title  id="0.1.0.1.35.1.0-4">package:SJ</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.200.0.0.0" id="_x30_.1.0.1.44-4">
+                    <title  id="0.1.0.1.44.0-6">element:R1</title>
+                    <g  gorn="0.200.0.0.0.1" id="_x30_.1.0.1.44.1-0">
+                        <title  id="0.1.0.1.44.1.0-9">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.201.0.0.0" id="_x30_.1.0.1.45-2">
+                    <title  id="0.1.0.1.45.0-6">element:R2</title>
+                    <g  gorn="0.201.0.0.0.1" id="_x30_.1.0.1.45.1-6">
+                        <title  id="0.1.0.1.45.1.0-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.202.0.0.0" id="_x30_.1.0.1.46-2">
+                    <title  id="0.1.0.1.46.0-5">element:RN1</title>
+                    <g  gorn="0.202.0.0.0.1" id="_x30_.1.0.1.46.1-0">
+                        <title  id="0.1.0.1.46.1.0-9">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.203.0.0.0" id="_x30_.1.0.1.47-7">
+                    <title  id="0.1.0.1.47.0-6">element:RN2</title>
+                    <g  gorn="0.203.0.0.0.1" id="_x30_.1.0.1.47.1-2">
+                        <title  id="0.1.0.1.47.1.0-8">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.204.0.0.0" id="_x30_.1.0.1.48-5">
+                    <title  id="0.1.0.1.48.0-8">element:RN3</title>
+                    <g  gorn="0.204.0.0.0.1" id="_x30_.1.0.1.48.1-7">
+                        <title  id="0.1.0.1.48.1.0-5">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.205.0.0.0" id="_x30_.1.0.1.49-4">
+                    <title  id="0.1.0.1.49.0-1">element:RN4</title>
+                    <g  gorn="0.205.0.0.0.1" id="_x30_.1.0.1.49.1-9">
+                        <title  id="0.1.0.1.49.1.0-0">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.206.0.0.0" id="_x30_.1.0.1.52-5">
+                    <title  id="0.1.0.1.52.0-7">element:Z1</title>
+                    <g  gorn="0.206.0.0.0.1" id="_x30_.1.0.1.52.1-8">
+                        <title  id="0.1.0.1.52.1.0-2">package:CT/CN0603</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.207.0.0.0" id="_x30_.1.0.1.53-9">
+                    <title  id="0.1.0.1.53.0-2">element:Z2</title>
+                    <g  gorn="0.207.0.0.0.1" id="_x30_.1.0.1.53.1-6">
+                        <title  id="0.1.0.1.53.1.0-7">package:CT/CN0603</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.208.0.0.0" id="_x30_.1.0.2.7-5">
+                    <title  id="0.1.0.2.7.0-5">text:M.Banzi</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.209.0.0.0" id="_x30_.1.0.2.8-5">
+                    <title  id="0.1.0.2.8.0-9">text:D.Cuartielles</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.210.0.0.0" id="_x30_.1.0.2.9-8">
+                    <title  id="0.1.0.2.9.0-5">text:D.Mellis</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.211.0.0.0" id="_x30_.1.0.2.12-9">
+                    <title  id="0.1.0.2.12.0-9">text:G.Martino</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.212.0.0.0" id="_x30_.1.0.2.13-6">
+                    <title  id="0.1.0.2.13.0-1">text:T.Igoe</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.213.0.0.0" id="_x30_.1.0.2.33-4">
+                    <title  id="0.1.0.2.33.0-3">text:SDA</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.214.0.0.0" id="_x30_.1.0.2.34-3">
+                    <title  id="0.1.0.2.34.0-9">text:SCL</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.215.0.0.0" id="_x30_.1.0.2.35-1">
+                    <title  id="0.1.0.2.35.0-2">element:AD</title>
+                    <g  gorn="0.215.0.0.0.1" id="_x30_.1.0.2.35.1-9">
+                        <title  id="0.1.0.2.35.1.0-1">package:1X06</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.216.0.0.0" id="_x30_.1.0.2.36-5">
+                    <title  id="0.1.0.2.36.0-0">element:C1</title>
+                    <g  gorn="0.216.0.0.0.1" id="_x30_.1.0.2.36.1-0">
+                        <title  id="0.1.0.2.36.1.0-1">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.217.0.0.0" id="_x30_.1.0.2.37-4">
+                    <title  id="0.1.0.2.37.0-2">element:C2</title>
+                    <g  gorn="0.217.0.0.0.1" id="_x30_.1.0.2.37.1-7">
+                        <title  id="0.1.0.2.37.1.0-5">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.218.0.0.0" id="_x30_.1.0.2.38-8">
+                    <title  id="0.1.0.2.38.0-5">element:C3</title>
+                    <g  gorn="0.218.0.0.0.1" id="_x30_.1.0.2.38.1-5">
+                        <title  id="0.1.0.2.38.1.0-1">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.219.0.0.0" id="_x30_.1.0.2.39-2">
+                    <title  id="0.1.0.2.39.0-4">element:C4</title>
+                    <g  gorn="0.219.0.0.0.1" id="_x30_.1.0.2.39.1-3">
+                        <title  id="0.1.0.2.39.1.0-2">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.220.0.0.0" id="_x30_.1.0.2.40-2">
+                    <title  id="0.1.0.2.40.0-6">element:C5</title>
+                    <g  gorn="0.220.0.0.0.1" id="_x30_.1.0.2.40.1-5">
+                        <title  id="0.1.0.2.40.1.0-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.221.0.0.0" id="_x30_.1.0.2.41-2">
+                    <title  id="0.1.0.2.41.0-1">element:C6</title>
+                    <g  gorn="0.221.0.0.0.1" id="_x30_.1.0.2.41.1-7">
+                        <title  id="0.1.0.2.41.1.0-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.222.0.0.0" id="_x30_.1.0.2.42-0">
+                    <title  id="0.1.0.2.42.0-5">element:C7</title>
+                    <g  gorn="0.222.0.0.0.1" id="_x30_.1.0.2.42.1-6">
+                        <title  id="0.1.0.2.42.1.0-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.223.0.0.0" id="_x30_.1.0.2.43-8">
+                    <title  id="0.1.0.2.43.0-2">element:C8</title>
+                    <g  gorn="0.223.0.0.0.1" id="_x30_.1.0.2.43.1-8">
+                        <title  id="0.1.0.2.43.1.0-7">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.224.0.0.0" id="_x30_.1.0.2.44-2">
+                    <title  id="0.1.0.2.44.0-4">element:C9</title>
+                    <g  gorn="0.224.0.0.0.1" id="_x30_.1.0.2.44.1-2">
+                        <title  id="0.1.0.2.44.1.0-4">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.225.0.0.0" id="_x30_.1.0.2.45-7">
+                    <title  id="0.1.0.2.45.0-7">element:C11</title>
+                    <g  gorn="0.225.0.0.0.1" id="_x30_.1.0.2.45.1-2">
+                        <title  id="0.1.0.2.45.1.0-1">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.226.0.0.0" id="_x30_.1.0.2.46-7">
+                    <title  id="0.1.0.2.46.0-9">element:D1</title>
+                    <g  gorn="0.226.0.0.0.1" id="_x30_.1.0.2.46.1-4">
+                        <title  id="0.1.0.2.46.1.0-7">package:SMB</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.227.0.0.0" id="_x30_.1.0.2.47-2">
+                    <title  id="0.1.0.2.47.0-9">element:D2</title>
+                    <g  gorn="0.227.0.0.0.1" id="_x30_.1.0.2.47.1-8">
+                        <title  id="0.1.0.2.47.1.0-8">package:MINIMELF</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.228.0.0.0" id="_x30_.1.0.2.48-5">
+                    <title  id="0.1.0.2.48.0-8">element:D3</title>
+                    <g  gorn="0.228.0.0.0.1" id="_x30_.1.0.2.48.1-8">
+                        <title  id="0.1.0.2.48.1.0-2">package:MINIMELF</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.229.0.0.0" id="_x30_.1.0.2.49-8">
+                    <title  id="0.1.0.2.49.0-4">element:F1</title>
+                    <g  gorn="0.229.0.0.0.1" id="_x30_.1.0.2.49.1-1">
+                        <title  id="0.1.0.2.49.1.0-1">package:L1812</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.230.0.0.0" id="_x30_.1.0.2.50-8">
+                    <title  id="0.1.0.2.50.0-4">element:FD1</title>
+                    <g  gorn="0.230.0.0.0.1" id="_x30_.1.0.2.50.1-1">
+                        <title  id="0.1.0.2.50.1.0-9">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.231.0.0.0" id="_x30_.1.0.2.51-2">
+                    <title  id="0.1.0.2.51.0-2">element:FD2</title>
+                    <g  gorn="0.231.0.0.0.1" id="_x30_.1.0.2.51.1-8">
+                        <title  id="0.1.0.2.51.1.0-4">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.232.0.0.0" id="_x30_.1.0.2.52-1">
+                    <title  id="0.1.0.2.52.0-8">element:FD3</title>
+                    <g  gorn="0.232.0.0.0.1" id="_x30_.1.0.2.52.1-6">
+                        <title  id="0.1.0.2.52.1.0-1">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.233.0.0.0" id="_x30_.1.0.2.53-5">
+                    <title  id="0.1.0.2.53.0-8">element:GROUND</title>
+                    <g  gorn="0.233.0.0.0.1" id="_x30_.1.0.2.53.1-5">
+                        <title  id="0.1.0.2.53.1.0-2">package:SJ</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.234.0.0.0" id="_x30_.1.0.2.56-3">
+                    <title  id="0.1.0.2.56.0-8">element:ICSP1</title>
+                    <g  gorn="0.234.0.0.0.1" id="_x30_.1.0.2.56.1-6">
+                        <title  id="0.1.0.2.56.1.0-3">package:2X03</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.235.0.0.0" id="_x30_.1.0.2.57-9">
+                    <title  id="0.1.0.2.57.0-0">element:IOH</title>
+                    <g  gorn="0.235.0.0.0.1" id="_x30_.1.0.2.57.1-6">
+                        <title  id="0.1.0.2.57.1.0-2">package:1X10@1</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.236.0.0.0" id="_x30_.1.0.2.58-5">
+                    <title  id="0.1.0.2.58.0-0">element:IOL</title>
+                    <g  gorn="0.236.0.0.0.1" id="_x30_.1.0.2.58.1-7">
+                        <title  id="0.1.0.2.58.1.0-3">package:1X08</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.237.0.0.0" id="_x30_.1.0.2.59-2">
+                    <title  id="0.1.0.2.59.0-9">element:JP2</title>
+                    <g  gorn="0.237.0.0.0.1" id="_x30_.1.0.2.59.1-4">
+                        <title  id="0.1.0.2.59.1.0-8">package:2X02</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.238.0.0.0" id="_x30_.1.0.2.60-2">
+                    <title  id="0.1.0.2.60.0-6">element:L</title>
+                    <g  gorn="0.238.0.0.0.1" id="_x30_.1.0.2.60.1-4">
+                        <title  id="0.1.0.2.60.1.0-7">package:CHIP-LED0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.239.0.0.0" id="_x30_.1.0.2.61-4">
+                    <title  id="0.1.0.2.61.0-4">element:L1</title>
+                    <g  gorn="0.239.0.0.0.1" id="_x30_.1.0.2.61.1-3">
+                        <title  id="0.1.0.2.61.1.0-2">package:0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.240.0.0.0" id="_x30_.1.0.2.63-9">
+                    <title  id="0.1.0.2.63.0-3">element:PC1</title>
+                    <g  gorn="0.240.0.0.0.1" id="_x30_.1.0.2.63.1-8">
+                        <title  id="0.1.0.2.63.1.0-4">package:PANASONIC_D</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.241.0.0.0" id="_x30_.1.0.2.64-8">
+                    <title  id="0.1.0.2.64.0-8">element:PC2</title>
+                    <g  gorn="0.241.0.0.0.1" id="_x30_.1.0.2.64.1-1">
+                        <title  id="0.1.0.2.64.1.0-0">package:PANASONIC_D</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.242.0.0.0" id="_x30_.1.0.2.65-7">
+                    <title  id="0.1.0.2.65.0-3">element:R1</title>
+                    <g  gorn="0.242.0.0.0.1" id="_x30_.1.0.2.65.1-7">
+                        <title  id="0.1.0.2.65.1.0-1">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.243.0.0.0" id="_x30_.1.0.2.66-6">
+                    <title  id="0.1.0.2.66.0-9">element:R2</title>
+                    <g  gorn="0.243.0.0.0.1" id="_x30_.1.0.2.66.1-4">
+                        <title  id="0.1.0.2.66.1.0-3">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.244.0.0.0" id="_x30_.1.0.2.67-6">
+                    <title  id="0.1.0.2.67.0-2">element:RESET</title>
+                    <g  gorn="0.244.0.0.0.1" id="_x30_.1.0.2.67.1-1">
+                        <title  id="0.1.0.2.67.1.0-8">package:TS42</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.245.0.0.0" id="_x30_.1.0.2.68-4">
+                    <title  id="0.1.0.2.68.0-7">element:RESET-EN</title>
+                    <g  gorn="0.245.0.0.0.1" id="_x30_.1.0.2.68.1-7">
+                        <title  id="0.1.0.2.68.1.0-6">package:SJ</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.246.0.0.0" id="_x30_.1.0.2.69-4">
+                    <title  id="0.1.0.2.69.0-0">element:RN1</title>
+                    <g  gorn="0.246.0.0.0.1" id="_x30_.1.0.2.69.1-8">
+                        <title  id="0.1.0.2.69.1.0-8">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.247.0.0.0" id="_x30_.1.0.2.70-3">
+                    <title  id="0.1.0.2.70.0-4">element:RN2</title>
+                    <g  gorn="0.247.0.0.0.1" id="_x30_.1.0.2.70.1-8">
+                        <title  id="0.1.0.2.70.1.0-0">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.248.0.0.0" id="_x30_.1.0.2.71-7">
+                    <title  id="0.1.0.2.71.0-9">element:RN3</title>
+                    <g  gorn="0.248.0.0.0.1" id="_x30_.1.0.2.71.1-9">
+                        <title  id="0.1.0.2.71.1.0-5">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.249.0.0.0" id="_x30_.1.0.2.72-0">
+                    <title  id="0.1.0.2.72.0-1">element:RN4</title>
+                    <g  gorn="0.249.0.0.0.1" id="_x30_.1.0.2.72.1-3">
+                        <title  id="0.1.0.2.72.1.0-7">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.250.0.0.0" id="_x30_.1.0.2.73-1">
+                    <title  id="0.1.0.2.73.0-0">element:RX</title>
+                    <g  gorn="0.250.0.0.0.1" id="_x30_.1.0.2.73.1-0">
+                        <title  id="0.1.0.2.73.1.0-1">package:CHIP-LED0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.251.0.0.0" id="_x30_.1.0.2.74-2">
+                    <title  id="0.1.0.2.74.0-5">element:T1</title>
+                    <g  gorn="0.251.0.0.0.1" id="_x30_.1.0.2.74.1-2">
+                        <title  id="0.1.0.2.74.1.0-4">package:SOT-23</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.252.0.0.0" id="_x30_.1.0.2.75-0">
+                    <title  id="0.1.0.2.75.0-8">element:TX</title>
+                    <g  gorn="0.252.0.0.0.1" id="_x30_.1.0.2.75.1-0">
+                        <title  id="0.1.0.2.75.1.0-8">package:CHIP-LED0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.253.0.0.0" id="_x30_.1.0.2.76-9">
+                    <title  id="0.1.0.2.76.0-3">element:U1</title>
+                    <g  gorn="0.253.0.0.0.1" id="_x30_.1.0.2.76.1-4">
+                        <title  id="0.1.0.2.76.1.0-1">package:SOT223</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.254.0.0.0" id="_x30_.1.0.2.77-6">
+                    <title  id="0.1.0.2.77.0-1">element:U2</title>
+                    <g  gorn="0.254.0.0.0.1" id="_x30_.1.0.2.77.1-4">
+                        <title  id="0.1.0.2.77.1.0-5">package:SOT23-DBV</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.255.0.0.0" id="_x30_.1.0.2.78-0">
+                    <title  id="0.1.0.2.78.0-1">element:U3</title>
+                    <g  gorn="0.255.0.0.0.1" id="_x30_.1.0.2.78.1-9">
+                        <title  id="0.1.0.2.78.1.0-1">package:MLF32</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.256.0.0.0" id="_x30_.1.0.2.79-8">
+                    <title  id="0.1.0.2.79.0-1">element:U5</title>
+                    <g  gorn="0.256.0.0.0.1" id="_x30_.1.0.2.79.1-8">
+                        <title  id="0.1.0.2.79.1.0-5">package:MSOP08</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.257.0.0.0" id="_x30_.1.0.2.80-6">
+                    <title  id="0.1.0.2.80.0-3">element:X1</title>
+                    <g  gorn="0.257.0.0.0.1" id="_x30_.1.0.2.80.1-7">
+                        <title  id="0.1.0.2.80.1.0-9">package:POWERSUPPLY_DC-21MM</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.258.0.0.0" id="_x30_.1.0.2.81-1">
+                    <title  id="0.1.0.2.81.0-1">element:X2</title>
+                    <g  gorn="0.258.0.0.0.1" id="_x30_.1.0.2.81.1-0">
+                        <title  id="0.1.0.2.81.1.0-2">package:PN61729</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.259.0.0.0" id="_x30_.1.0.2.82-4">
+                    <title  id="0.1.0.2.82.0-7">element:Y1</title>
+                    <g  gorn="0.259.0.0.0.1" id="_x30_.1.0.2.82.1-9">
+                        <title  id="0.1.0.2.82.1.0-6">package:QS</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.260.0.0.0" id="_x30_.1.0.2.83-7">
+                    <title  id="0.1.0.2.83.0-4">element:Y2</title>
+                    <g  gorn="0.260.0.0.0.1" id="_x30_.1.0.2.83.1-9">
+                        <title  id="0.1.0.2.83.1.0-8">package:RESONATOR</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.261.0.0.0" id="_x30_.1.0.2.84-1">
+                    <title  id="0.1.0.2.84.0-5">element:Z1</title>
+                    <g  gorn="0.261.0.0.0.1" id="_x30_.1.0.2.84.1-4">
+                        <title  id="0.1.0.2.84.1.0-8">package:CT/CN0603</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.262.0.0.0" id="_x30_.1.0.2.85-9">
+                    <title  id="0.1.0.2.85.0-7">element:Z2</title>
+                    <g  gorn="0.262.0.0.0.1" id="_x30_.1.0.2.85.1-9">
+                        <title  id="0.1.0.2.85.1.0-0">package:CT/CN0603</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.263.0.0.0" id="_x30_.1.0.2.86-6">
+                    <title  id="0.1.0.2.86.0-7">element:ZU4</title>
+                    <g  gorn="0.263.0.0.0.1" id="_x30_.1.0.2.86.1-8">
+                        <title  id="0.1.0.2.86.1.0-0">package:DIL28-3</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.264.0.0.0" id="g165703-9">
+                    <title  id="title165705-6">element:C1</title>
+                    <g  gorn="0.264.0.0.0.1" id="g165707-5">
+                        <title  id="title165709-2">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.265.0.0.0" id="g165711-5">
+                    <title  id="title165713-7">element:C2</title>
+                    <g  gorn="0.265.0.0.0.1" id="g165715-2">
+                        <title  id="title165717-9">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.266.0.0.0" id="g165719-0">
+                    <title  id="title165721-2">element:C3</title>
+                    <g  gorn="0.266.0.0.0.1" id="g165723-1">
+                        <title  id="title165725-4">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.267.0.0.0" id="g165727-7">
+                    <title  id="title165729-0">element:C4</title>
+                    <g  gorn="0.267.0.0.0.1" id="g165731-3">
+                        <title  id="title165733-1">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.268.0.0.0" id="g165735-8">
+                    <title  id="title165737-4">element:C6</title>
+                    <g  gorn="0.268.0.0.0.1" id="g165739-5">
+                        <title  id="title165741-9">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.269.0.0.0" id="g165743-5">
+                    <title  id="title165745-9">element:C7</title>
+                    <g  gorn="0.269.0.0.0.1" id="g165747-3">
+                        <title  id="title165749-7">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.270.0.0.0" id="g165751-2">
+                    <title  id="title165753-6">element:C10</title>
+                    <g  gorn="0.270.0.0.0.1" id="g165755-4">
+                        <title  id="title165757-9">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.271.0.0.0" id="g165759-1">
+                    <title  id="title165761-3">element:C11</title>
+                    <g  gorn="0.271.0.0.0.1" id="g165763-0">
+                        <title  id="title165765-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.272.0.0.0" id="g165767-8">
+                    <title  id="title165769-7">element:C12</title>
+                    <g  gorn="0.272.0.0.0.1" id="g165771-0">
+                        <title  id="title165773-0">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.273.0.0.0" id="g165775-8">
+                    <title  id="title165777-3">element:C13</title>
+                    <g  gorn="0.273.0.0.0.1" id="g165779-0">
+                        <title  id="title165781-0">package:SMC_B</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.274.0.0.0" id="g165783-1">
+                    <title  id="title165785-6">element:C14</title>
+                    <g  gorn="0.274.0.0.0.1" id="g165787-4">
+                        <title  id="title165789-0">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.275.0.0.0" id="g165791-9">
+                    <title  id="title165793-7">element:C15</title>
+                    <g  gorn="0.275.0.0.0.1" id="g165795-5">
+                        <title  id="title165797-9">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.276.0.0.0" id="g165799-8">
+                    <title  id="title165801-2">element:C16</title>
+                    <g  gorn="0.276.0.0.0.1" id="g165803-2">
+                        <title  id="title165805-1">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.277.0.0.0" id="g165817-5">
+                    <title  id="title165819-9">element:IC1</title>
+                    <g  gorn="0.277.0.0.0.1" id="g165821-1">
+                        <title  id="title165823-1">package:SOT143</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.278.0.0.0" id="g165883-9">
+                    <title  id="title165885-7">element:INT</title>
+                    <g  gorn="0.278.0.0.0.1" id="g165887-1">
+                        <title  id="title165889-4">package:SJ</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.279.0.0.0" id="g165951-3">
+                    <title  id="title165953-2">element:R1</title>
+                    <g  gorn="0.279.0.0.0.1" id="g165955-3">
+                        <title  id="title165957-1">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.280.0.0.0" id="g165959-8">
+                    <title  id="title165961-5">element:R2</title>
+                    <g  gorn="0.280.0.0.0.1" id="g165963-3">
+                        <title  id="title165965-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.281.0.0.0" id="g165967-5">
+                    <title  id="title165969-4">element:R3</title>
+                    <g  gorn="0.281.0.0.0.1" id="g165971-6">
+                        <title  id="title165973-9">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.282.0.0.0" id="g165975-5">
+                    <title  id="title165977-5">element:R4</title>
+                    <g  gorn="0.282.0.0.0.1" id="g165979-1">
+                        <title  id="title165981-3">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.283.0.0.0" id="g165983-4">
+                    <title  id="title165985-9">element:R5</title>
+                    <g  gorn="0.283.0.0.0.1" id="g165987-1">
+                        <title  id="title165989-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.284.0.0.0" id="g165991-7">
+                    <title  id="title165993-0">element:R6</title>
+                    <g  gorn="0.284.0.0.0.1" id="g165995-0">
+                        <title  id="title165997-1">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.285.0.0.0" id="g165999-5">
+                    <title  id="title166001-0">element:R7</title>
+                    <g  gorn="0.285.0.0.0.1" id="g166003-0">
+                        <title  id="title166005-1">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.286.0.0.0" id="g166007-2">
+                    <title  id="title166009-3">element:R8</title>
+                    <g  gorn="0.286.0.0.0.1" id="g166011-2">
+                        <title  id="title166013-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.287.0.0.0" id="g166015-2">
+                    <title  id="title166017-2">element:R9</title>
+                    <g  gorn="0.287.0.0.0.1" id="g166019-9">
+                        <title  id="title166021-4">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.288.0.0.0" id="g166037-1">
+                    <title  id="title166039-4">element:RN1</title>
+                    <g  gorn="0.288.0.0.0.1" id="g166041-9">
+                        <title  id="title166043-8">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.289.0.0.0" id="g166045-2">
+                    <title  id="title166047-4">element:RN2</title>
+                    <g  gorn="0.289.0.0.0.1" id="g166049-2">
+                        <title  id="title166051-8">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.290.0.0.0" id="g166053-9">
+                    <title  id="title166055-5">element:RN3</title>
+                    <g  gorn="0.290.0.0.0.1" id="g166057-6">
+                        <title  id="title166059-1">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.291.0.0.0" id="g166081-9">
+                    <title  id="title166083-6">element:U$2</title>
+                    <g  gorn="0.291.0.0.0.1" id="g166085-0">
+                        <title  id="title166087-9">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.292.0.0.0" id="g166089-9">
+                    <title  id="title166091-3">element:U$3</title>
+                    <g  gorn="0.292.0.0.0.1" id="g166093-2">
+                        <title  id="title166095-2">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.293.0.0.0" id="g166097-6">
+                    <title  id="title166099-5">element:U$4</title>
+                    <g  gorn="0.293.0.0.0.1" id="g166101-0">
+                        <title  id="title166103-6">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.294.0.0.0" id="g166105-6">
+                    <title  id="title166107-5">element:U$5</title>
+                    <g  gorn="0.294.0.0.0.1" id="g166109-1">
+                        <title  id="title166111-0">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.295.0.0.0" id="g166295-9">
+                    <title  id="title166297-1">text:M.Banzi</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.296.0.0.0" id="g166299-3">
+                    <title  id="title166301-6">text:D.Cuartielles</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.297.0.0.0" id="g166303-3">
+                    <title  id="title166305-1">text:D.Mellis</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.298.0.0.0" id="g166307-6">
+                    <title  id="title166309-7">text:G.Martino</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.299.0.0.0" id="g166311-4">
+                    <title  id="title166313-6">text:T.Igoe</title>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.300.0.0.0" id="g166329-1">
+                    <title  id="title166331-8">element:C1</title>
+                    <g  gorn="0.300.0.0.0.1" id="g166333-6">
+                        <title  id="title166335-6">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.301.0.0.0" id="g166337-5">
+                    <title  id="title166339-3">element:C2</title>
+                    <g  gorn="0.301.0.0.0.1" id="g166341-8">
+                        <title  id="title166343-9">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.302.0.0.0" id="g166345-0">
+                    <title  id="title166347-4">element:C3</title>
+                    <g  gorn="0.302.0.0.0.1" id="g166349-8">
+                        <title  id="title166351-4">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.303.0.0.0" id="g166353-4">
+                    <title  id="title166355-0">element:C4</title>
+                    <g  gorn="0.303.0.0.0.1" id="g166357-3">
+                        <title  id="title166359-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.304.0.0.0" id="g166361-0">
+                    <title  id="title166363-2">element:C5</title>
+                    <g  gorn="0.304.0.0.0.1" id="g166365-7">
+                        <title  id="title166367-7">package:PANASONIC_D</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.305.0.0.0" id="g166369-5">
+                    <title  id="title166371-5">element:C6</title>
+                    <g  gorn="0.305.0.0.0.1" id="g166373-4">
+                        <title  id="title166375-3">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.306.0.0.0" id="g166377-8">
+                    <title  id="title166379-2">element:C7</title>
+                    <g  gorn="0.306.0.0.0.1" id="g166381-0">
+                        <title  id="title166383-5">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.307.0.0.0" id="g166385-5">
+                    <title  id="title166387-4">element:C8</title>
+                    <g  gorn="0.307.0.0.0.1" id="g166389-7">
+                        <title  id="title166391-6">package:PANASONIC_D</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.308.0.0.0" id="g166393-2">
+                    <title  id="title166395-6">element:C9</title>
+                    <g  gorn="0.308.0.0.0.1" id="g166397-8">
+                        <title  id="title166399-0">package:PANASONIC_D</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.309.0.0.0" id="g166401-6">
+                    <title  id="title166403-0">element:C10</title>
+                    <g  gorn="0.309.0.0.0.1" id="g166405-3">
+                        <title  id="title166407-5">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.310.0.0.0" id="g166409-2">
+                    <title  id="title166411-2">element:C11</title>
+                    <g  gorn="0.310.0.0.0.1" id="g166413-7">
+                        <title  id="title166415-7">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.311.0.0.0" id="g166417-3">
+                    <title  id="title166419-8">element:C12</title>
+                    <g  gorn="0.311.0.0.0.1" id="g166421-8">
+                        <title  id="title166423-4">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.312.0.0.0" id="g166425-9">
+                    <title  id="title166427-5">element:C13</title>
+                    <g  gorn="0.312.0.0.0.1" id="g166429-3">
+                        <title  id="title166431-1">package:SMC_B</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.313.0.0.0" id="g166433-5">
+                    <title  id="title166435-6">element:C14</title>
+                    <g  gorn="0.313.0.0.0.1" id="g166437-9">
+                        <title  id="title166439-9">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.314.0.0.0" id="g166441-4">
+                    <title  id="title166443-8">element:C15</title>
+                    <g  gorn="0.314.0.0.0.1" id="g166445-7">
+                        <title  id="title166447-5">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.315.0.0.0" id="g166449-3">
+                    <title  id="title166451-0">element:C16</title>
+                    <g  gorn="0.315.0.0.0.1" id="g166453-0">
+                        <title  id="title166455-6">package:C0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.316.0.0.0" id="g166457-5">
+                    <title  id="title166459-3">element:FULLD</title>
+                    <g  gorn="0.316.0.0.0.1" id="g166461-3">
+                        <title  id="title166463-4">text:FULLD</title>
+                    </g>
+                    <g  gorn="0.316.0.0.0.2" id="g166465-5">
+                        <title  id="title166467-8">package:CHIPLED_0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.317.0.0.0" id="g166469-8">
+                    <title  id="title166471-3">element:IC1</title>
+                    <g  gorn="0.317.0.0.0.1" id="g166473-0">
+                        <title  id="title166475-2">package:SOT143</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.318.0.0.0" id="g166477-1">
+                    <title  id="title166479-8">element:IC2</title>
+                    <g  gorn="0.318.0.0.0.1" id="g166481-8">
+                        <title  id="title166483-4">package:SOT223</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.319.0.0.0" id="g166485-7">
+                    <title  id="title166487-8">element:IC3</title>
+                    <g  gorn="0.319.0.0.0.1" id="g166489-3">
+                        <title  id="title166491-2">package:DPACK</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.320.0.0.0" id="g166493-9">
+                    <title  id="title166495-6">element:IC4</title>
+                    <g  gorn="0.320.0.0.0.1" id="g166497-8">
+                        <title  id="title166499-0">package:SQFP-S-10X10-80</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.321.0.0.0" id="g166501-0">
+                    <title  id="title166503-6">element:IC5</title>
+                    <g  gorn="0.321.0.0.0.1" id="g166505-7">
+                        <title  id="title166507-2">package:SOT23-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.322.0.0.0" id="g166509-2">
+                    <title  id="title166511-3">element:IC6</title>
+                    <g  gorn="0.322.0.0.0.1" id="g166513-1">
+                        <title  id="title166515-7">package:SOT23-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.323.0.0.0" id="g166517-8">
+                    <title  id="title166519-6">element:IC7</title>
+                    <g  gorn="0.323.0.0.0.1" id="g166521-0">
+                        <title  id="title166523-4">package:SOT23-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.324.0.0.0" id="g166525-2">
+                    <title  id="title166527-5">element:IC8</title>
+                    <g  gorn="0.324.0.0.0.1" id="g166529-5">
+                        <title  id="title166531-1">package:SC70-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.325.0.0.0" id="g166533-6">
+                    <title  id="title166535-0">element:IC9</title>
+                    <g  gorn="0.325.0.0.0.1" id="g166537-0">
+                        <title  id="title166539-5">package:SC70-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.326.0.0.0" id="g166541-1">
+                    <title  id="title166543-8">element:IC10</title>
+                    <g  gorn="0.326.0.0.0.1" id="g166545-8">
+                        <title  id="title166547-5">package:SC70-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.327.0.0.0" id="g166549-8">
+                    <title  id="title166551-7">element:IC11</title>
+                    <g  gorn="0.327.0.0.0.1" id="g166553-9">
+                        <title  id="title166555-0">package:SOT23-5</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.328.0.0.0" id="g166571-2">
+                    <title  id="title166573-2">element:INT</title>
+                    <g  gorn="0.328.0.0.0.1" id="g166575-6">
+                        <title  id="title166577-9">package:SJ</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.329.0.0.0" id="g166579-7">
+                    <title  id="title166581-3">element:J1</title>
+                    <g  gorn="0.329.0.0.0.1" id="g166583-6">
+                        <title  id="title166585-1">package:1X08</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.330.0.0.0" id="g166587-5">
+                    <title  id="title166589-6">element:J2</title>
+                    <g  gorn="0.330.0.0.0.1" id="g166591-0">
+                        <title  id="title166593-2">package:1X06</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.331.0.0.0" id="g166595-4">
+                    <title  id="title166597-4">element:J3</title>
+                    <g  gorn="0.331.0.0.0.1" id="g166599-0">
+                        <title  id="title166601-3">package:1X08</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.332.0.0.0" id="g166621-1">
+                    <title  id="title166623-0">element:L1</title>
+                    <g  gorn="0.332.0.0.0.1" id="g166625-4">
+                        <title  id="title166627-3">package:0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.333.0.0.0" id="g166629-3">
+                    <title  id="title166631-7">element:L2</title>
+                    <g  gorn="0.333.0.0.0.1" id="g166633-0">
+                        <title  id="title166635-5">package:0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.334.0.0.0" id="g166637-6">
+                    <title  id="title166639-8">element:L3</title>
+                    <g  gorn="0.334.0.0.0.1" id="g166641-6">
+                        <title  id="title166643-5">package:0805</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.335.0.0.0" id="g166691-5">
+                    <title  id="title166693-7">element:Q1</title>
+                    <g  gorn="0.335.0.0.0.1" id="g166695-6">
+                        <title  id="title166697-7">package:QS</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.336.0.0.0" id="g166699-9">
+                    <title  id="title166701-2">element:R1</title>
+                    <g  gorn="0.336.0.0.0.1" id="g166703-3">
+                        <title  id="title166705-8">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.337.0.0.0" id="g166707-3">
+                    <title  id="title166709-3">element:R2</title>
+                    <g  gorn="0.337.0.0.0.1" id="g166711-7">
+                        <title  id="title166713-1">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.338.0.0.0" id="g166715-2">
+                    <title  id="title166717-3">element:R3</title>
+                    <g  gorn="0.338.0.0.0.1" id="g166719-1">
+                        <title  id="title166721-1">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.339.0.0.0" id="g166723-8">
+                    <title  id="title166725-0">element:R4</title>
+                    <g  gorn="0.339.0.0.0.1" id="g166727-5">
+                        <title  id="title166729-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.340.0.0.0" id="g166731-0">
+                    <title  id="title166733-6">element:R5</title>
+                    <g  gorn="0.340.0.0.0.1" id="g166735-3">
+                        <title  id="title166737-2">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.341.0.0.0" id="g166739-0">
+                    <title  id="title166741-8">element:R6</title>
+                    <g  gorn="0.341.0.0.0.1" id="g166743-8">
+                        <title  id="title166745-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.342.0.0.0" id="g166747-4">
+                    <title  id="title166749-1">element:R7</title>
+                    <g  gorn="0.342.0.0.0.1" id="g166751-1">
+                        <title  id="title166753-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.343.0.0.0" id="g166755-6">
+                    <title  id="title166757-8">element:R8</title>
+                    <g  gorn="0.343.0.0.0.1" id="g166759-9">
+                        <title  id="title166761-3">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.344.0.0.0" id="g166763-2">
+                    <title  id="title166765-0">element:R9</title>
+                    <g  gorn="0.344.0.0.0.1" id="g166767-3">
+                        <title  id="title166769-0">package:R0603-ROUND</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.345.0.0.0" id="g166771-1">
+                    <title  id="title166773-4">element:RESET1</title>
+                    <g  gorn="0.345.0.0.0.1" id="g166775-8">
+                        <title  id="title166777-2">package:TS42</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.346.0.0.0" id="g166779-4">
+                    <title  id="title166781-9">element:RN1</title>
+                    <g  gorn="0.346.0.0.0.1" id="g166783-7">
+                        <title  id="title166785-8">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.347.0.0.0" id="g166787-0">
+                    <title  id="title166789-4">element:RN2</title>
+                    <g  gorn="0.347.0.0.0.1" id="g166791-0">
+                        <title  id="title166793-4">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.348.0.0.0" id="g166795-7">
+                    <title  id="title166797-5">element:RN3</title>
+                    <g  gorn="0.348.0.0.0.1" id="g166799-9">
+                        <title  id="title166801-1">package:CAY16</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.349.0.0.0" id="g166839-4">
+                    <title  id="title166841-6">element:U$1</title>
+                    <g  gorn="0.349.0.0.0.1" id="g166843-0">
+                        <title  id="title166845-8">package:POE-RJ45</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.350.0.0.0" id="g166847-3">
+                    <title  id="title166849-4">element:U$2</title>
+                    <g  gorn="0.350.0.0.0.1" id="g166851-6">
+                        <title  id="title166853-1">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.351.0.0.0" id="g166855-6">
+                    <title  id="title166857-2">element:U$3</title>
+                    <g  gorn="0.351.0.0.0.1" id="g166859-5">
+                        <title  id="title166861-7">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.352.0.0.0" id="g166863-4">
+                    <title  id="title166865-2">element:U$4</title>
+                    <g  gorn="0.352.0.0.0.1" id="g166867-6">
+                        <title  id="title166869-7">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.353.0.0.0" id="g166871-2">
+                    <title  id="title166873-0">element:U$5</title>
+                    <g  gorn="0.353.0.0.0.1" id="g166875-9">
+                        <title  id="title166877-7">package:FIDUCIA-MOUNT</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-33.0455,23.38491)">
+        <g >
+            <g >
+                <g  gorn="0.354.0.0.0" id="g166879-0">
+                    <title  id="title166881-5">element:X1</title>
+                    <g  gorn="0.354.0.0.0.1" id="g166883-9">
+                        <title  id="title166885-9">package:SDCARD-15TW-8821</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.355.0.0.0" id="g204950-8">
+                    <title  id="title204952-4">element:FID1</title>
+                    <g  gorn="0.355.0.0.0.1" id="g204954-3">
+                        <title  id="title204956-8">package:MICRO-FIDUCIAL</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.356.0.0.0" id="g204958-1">
+                    <title  id="title204960-5">element:FID2</title>
+                    <g  gorn="0.356.0.0.0.1" id="g204962-2">
+                        <title  id="title204964-7">package:MICRO-FIDUCIAL</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.357.0.0.0" id="g205322-5">
+                    <title  id="title205324-9">element:LOGO1</title>
+                    <g  gorn="0.357.0.0.0.1" id="g205326-4">
+                        <title  id="title205328-4">package:SFE_LOGO_NAME_FLAME_.2</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.358.0.0.0" id="g205344-6">
+                    <title  id="title205346-6">element:LOGO3</title>
+                    <g  gorn="0.358.0.0.0.1" id="g205348-8">
+                        <title  id="title205350-7">package:OSHW-LOGO-M</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.359.0.0.0" id="g205434-4">
+                    <title  id="title205436-3">element:SJ1</title>
+                    <g  gorn="0.359.0.0.0.1" id="g205438-2">
+                        <title  id="title205440-3">package:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.360.0.0.0" id="g205442-5">
+                    <title  id="title205444-2">element:SJ2</title>
+                    <g  gorn="0.360.0.0.0.1" id="g205446-8">
+                        <title  id="title205448-2">package:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.361.0.0.0" id="g205450-9">
+                    <title  id="title205452-3">element:SJ3</title>
+                    <g  gorn="0.361.0.0.0.1" id="g205454-2">
+                        <title  id="title205456-4">package:PAD-JUMPER-3-2OF3_NC_BY_TRACE_YES_SILK_FULL_BOX</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.362.0.0.0" id="g205458-3">
+                    <title  id="title205460-6">element:SJ4</title>
+                    <g  gorn="0.362.0.0.0.1" id="g205462-9">
+                        <title  id="title205464-5">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.363.0.0.0" id="g205466-7">
+                    <title  id="title205468-2">element:SJ5</title>
+                    <g  gorn="0.363.0.0.0.1" id="g205470-0">
+                        <title  id="title205472-5">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.364.0.0.0" id="g205474-0">
+                    <title  id="title205476-7">element:SJ6</title>
+                    <g  gorn="0.364.0.0.0.1" id="g205478-4">
+                        <title  id="title205480-3">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(-16.35846,-22.75841)">
+        <g >
+            <g >
+                <g  gorn="0.365.0.0.0" id="g205482-1">
+                    <title  id="title205484-8">element:SJ7</title>
+                    <g  gorn="0.365.0.0.0.1" id="g205486-8">
+                        <title  id="title205488-0">package:PAD-JUMPER-2-NO_YES_SILK</title>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
